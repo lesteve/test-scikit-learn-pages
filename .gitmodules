@@ -1,0 +1,3 @@
+[submodule "0.15"]
+	path = 0.15
+	url = https://github.com/lesteve/test-scikit-learn-pages-0.15
